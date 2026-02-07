@@ -35,7 +35,7 @@ header span {
     font-weight: 700;
     font-size: 48px;
     color: #303030;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .main-text {
@@ -85,7 +85,7 @@ select {
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
     list-style-image: url(./assets/image/solar_map-arrow-up-bold.svg);
-    padding-left: 20px;
+    padding: 0px 20px;
     font-weight: 400;
     font-size: 16px;
     color: #303030;
@@ -93,7 +93,7 @@ select {
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
-    padding-left: 20px;
+    padding: 0px 20px;
     font-weight: 400;
     font-size: 16px;
     color: #303030;
